@@ -1,4 +1,3 @@
-# django_cityloc_pkg-jasmorrell
-# django_cityloc_pkg_jasmorrell
-# django_cityloc_pkg_jasmorrell
-# django_cityloc_pkg_jasmorrell
+# Package Management
+
+Creation, management, and delivery of a package for a Django app using Python, VS Code and Github workflows.
