@@ -1,3 +1,3 @@
 # Package Management
 
-Creation, management, delivery and documentation of a package for a Django app using Python, VS Code and Github workflows.
+Creation, management, delivery and documentation of a package for a Django app using Python, HTML, VS Code and Github workflows.
